@@ -1,9 +1,9 @@
 # Archimaw's Community
 > This hasn't been decided, what descriptive meaning yet...
-
 #### Rules
-[Click me](https://gist.github.com/Archimaw/09fcaaea3567deaebbc4aad29d200fe7)
-
+- All forms of bigotry, harassment, doxing, exclusionary, or abusive behavior, excessive rudeness, impatience, and hostility aren't welcome. Don't rage out or make personal attacks against other people. Don't encourage users to brigade or raid other communities!
+- Don't spam & post text, images, mentions, emojis, reactions, or post offensive, obscene, politically charged, or sexually explicit content, or anything else, Avoid using vulgar language and excessive profanity!
+- Please refrain from advertising and self-promoting!
 #### Partnership Program
 Servers or streamers, who've gotten over 200+ members, can apply for partnership!
 This gives permissions to invite our custom bots to their servers to manage with
