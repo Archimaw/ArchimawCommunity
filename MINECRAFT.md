@@ -11,4 +11,5 @@
 #### Network
 - Cosmetic (unlockables, badges, achievements, bundles)
 #### Purchases
+- $5.99/mo Matrix
 - $9.99/mo Nova
