@@ -9,7 +9,6 @@
 - 🔪 You've been a gamer toward Archimaw or the wife.
 - 🪄 You're a wizard harry!
 - 🎄 Merry Christmas!
-# TBA Badges
 - ❄️ N/A
 - 💞 N/A
 - 🍝 N/A
