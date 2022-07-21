@@ -1,4 +1,4 @@
-# Archimaw's Community
+# Archiphon's Community
 > This hasn't been decided, what descriptive meaning yet...
 #### Rules
 - All forms of bigotry, harassment, doxing, exclusionary, or abusive behavior, excessive rudeness, impatience, and hostility aren't welcome. Don't rage out or make personal attacks against other people. Don't encourage users to brigade or raid other communities!
